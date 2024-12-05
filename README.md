@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratikdash07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and GenAI
+- 🌱 I’m currently learning ... Python and Data analytics
+- 💞️ I’m looking to collaborate on ... Healthcare Projects
 - 📫 How to reach me ... pratikdashing07@gmail.com
 
 <!---
